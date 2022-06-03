@@ -24,7 +24,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/harshbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harshbir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code byte" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChFPWjgi1Hd48guawMl8wnA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code byte" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
