@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 
-- 🔭 I’m currently working on **XMANGER**
+- 🔭 I’m currently working on **XMANAGER**
 
 - 🌱 I’m currently learning **Python, Java**
 
