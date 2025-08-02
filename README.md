@@ -37,4 +37,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=harsh-python&show_icons=true&theme=dark&title_color=ffffff&text_color=09ecc6&hide_border=true&locale=en" alt="harsh-python" /></p>
 
 <p align="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-python&show_icons=true&theme=dark&title_color=ffffff&text_color=09ecc4&hide_border=true&locale=en&layout=compact" alt="harsh-python" /> </p>
-<p align="middle"><a href="https://app.daily.dev/harshbir_007"><img src="https://api.daily.dev/devcards/7e90cfc2c2624e4c8868226ebc780eb9.png?r=jaj" width="250" alt="Harsh Bir's Dev Card"/></a></p>
